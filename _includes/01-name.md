@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+# Krishnapriya
+## EC
+### MBCET
+#### Loves reading
+##### Interested in AI, IOT, etc.
+###### currently 3rd year
